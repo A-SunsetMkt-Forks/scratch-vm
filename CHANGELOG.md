@@ -3,6 +3,41 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.8.32](https://github.com/scratchfoundation/scratch-vm/compare/v4.8.31...v4.8.32) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-svg-renderer to v2.5.12 ([9405672](https://github.com/scratchfoundation/scratch-vm/commit/9405672a4d646418cc106a185137607bb58aeb94))
+
+## [4.8.31](https://github.com/scratchfoundation/scratch-vm/compare/v4.8.30...v4.8.31) (2024-10-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-l10n to v3.18.338 ([d797a19](https://github.com/scratchfoundation/scratch-vm/commit/d797a19b63ee76d5ea51f8a613c8ac4d78b8db18))
+
+## [4.8.30](https://github.com/scratchfoundation/scratch-vm/compare/v4.8.29...v4.8.30) (2024-10-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-svg-renderer to v2.5.11 ([210bae5](https://github.com/scratchfoundation/scratch-vm/commit/210bae5460e9876bc55a0ea886ea4222a55cc2f8))
+
+## [4.8.29](https://github.com/scratchfoundation/scratch-vm/compare/v4.8.28...v4.8.29) (2024-10-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-render-fonts to v1.0.111 ([ae9f9a8](https://github.com/scratchfoundation/scratch-vm/commit/ae9f9a89e88db5cd93554c8168f014054019b9d2))
+
+## [4.8.28](https://github.com/scratchfoundation/scratch-vm/compare/v4.8.27...v4.8.28) (2024-10-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-l10n to v3.18.336 ([6130eb9](https://github.com/scratchfoundation/scratch-vm/commit/6130eb9ccad43432f04f668ddb0ae6c14cb8fdfe))
+
 ## [4.8.27](https://github.com/scratchfoundation/scratch-vm/compare/v4.8.26...v4.8.27) (2024-10-09)
 
 
